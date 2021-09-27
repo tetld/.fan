@@ -1,5 +1,5 @@
 {
-    "nic":"https://nic.tetld.repl.co/net.php?dname=<name>",
-    "domains":"https://raw.githubusercontent.com/tetld/.net/main/domains.json",
+    "nic":"https://nic.tetld.repl.co/fan.php?dname=<name>",
+    "domains":"https://raw.githubusercontent.com/tetld/.fan/main/domains.json",
     "2nd":{}
 }
